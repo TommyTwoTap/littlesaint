@@ -1,0 +1,159 @@
+{
+    "misc_pages" : {
+      "history_authority_page.htm": "History of and authority for the Little Saint Germain Lake Protection & Rehabiltation District",
+      "valuation_levy_history_page.html":"Valuation and tax levy history",
+      "lake_management_plan_page.html":"Lake managemet plan"
+      "grant_history_page.html":"Grant history",
+      "e-mail_broadcast_page.html":"E-mail broadcast system",
+      "buoy_marking_page.html":"Buoy marking program",
+      "water_quality_monitoring_page.html":"Water quality monitoring",
+      "invasive_species_management_page.html":""Invasive species management",
+      "winter_aeration_page.html":"Winter aeration systems", 
+      "town_lakes_committee_page.html":"St. Germain Town Lakes Committee"
+    }
+    "lake_studies" : {
+      "lake_studies/usgs_water_quality_2000.pdf":"USGS - Water quality, 2000"
+      "lake_studies/usgs_phosphorous_loading_muskellunge_creek.pdf":"USGS - Phosphorous loading from Muskellunge Creek, 2003" 
+      "lake_studies/usgs_water_quality_2005.pdf":"USGS - Water qualtiy, 2005"
+      "lake_studies/barr_muskcreek_alum_feasibility.pdf":"Barr Engineering - Muskellunge Creek alum feasibility study, 2007"
+      "lake_studies/barr_alum_sediment_study.pdf":"Barr Engineering - Lake sediment alum treatment study, 2007"
+      "lake_studies/foth_van_dyke_lake_studies_summary_report.pdf":"Foth &amp; Van Dyke summary report of all studies conducted"
+      "misc_documents/alum_phosphorous_control_dnr.pdf":"DNR - Alum Treatments to Control Phosphorous in Lakes",
+      "misc_documents/st_germain_lakes_apm_plan.pdf":"St. Germain Lakes - Aquatic Plant Management Plans"
+      "misc_documents/barr_alum_proposal_03-09.pdf":"Barr Engineering - Alum treatment proposal - March, 2009"
+      "lake_studies/shoreland_restoration_project_executive_summary.pdf":"Shoreline habitat restoration project - Executive summary"
+      "lake_studies/shoreland_restoration_project_final-report.pdf":"Shoreline habitat restoration project - Final report"
+    },
+    meeting_minutes: {
+      "mtg_minutes/1998_annl_mtg_min.pdf":"1998 Annual meeting",
+      "mtg_minutes/1999_annl_mtg_min.pdf":"1999 Annual meeting",
+      "mtg_minutes/2000_annl_mtg_min.pdf":"2000 Annual meeting",
+      "mtg_minutes/2001_annl_mtg_min.pdf":"2001 Annual meeting",
+      "mtg_minutes/2002_annl_mtg_min.pdf":"2002 Annual meeting",
+      "mtg_minutes/2003_annl_mtg_min.pdf":"2003 Annual meeting",
+      "mtg_minutes/2004_annl_mtg_min.pdf":"2004 Annual meeting",
+      "mtg_minutes/2005_annl_mtg_min.pdf":"2005 Annual meeting",
+      "mtg_minutes/2007_annl_mtg_min.pdf":"2007 Annual meeting",
+      "mtg_minutes/2007_07-27_mtg.pdf":"2007 July 27 Board of Commissioners meeting",
+      "mtg_minutes/2007_12_19_mtg.pdf":"2007 December 19 Board of Commissioners meeting",
+      "mtg_minutes/2008_annl_mtg_min.pdf":"2008 Annual meeting",
+      "mtg_minutes/2008_05_07_mtg.pdf":"2008 May 07 Board of Commissioners meeting",
+      "mtg_minutes/2008_07_24_mtg.pdf":"2008 July 24 Board of Commissioners meeting",
+      "mtg_minutes/2008_10_02_mtg.pdf":"2008 Ocotber 02 Board of Commissioners meeting",
+      "mtg_minutes/2008_12_17_mtg.pdf":"2008 December 17 Board of Commissioners meeting",
+      "mtg_minutes/2009_annl_mtg_min.pdf":"2009 Annual meeting",
+      "mtg_minutes/2009_04_09_mtg.pdf":"2009 April 09 Board of Commissioners meeting",
+      "mtg_minutes/2009_07_16_mtg.pdf":"2009 July 16 Board of Commissioners meeting",
+      "mtg_minutes/2009_09_23_mtg.pdf":"2009 September 23 Board of Commissioners meeting",
+      "mtg_minutes/2009_10_06_mtg.pdf":"2009 October 06 Board of Commissioners meeting",
+      "mtg_minutes/2009_12_10_mtg.pdf":"2009 December 10 Board of Commissioners meeting",
+      "mtg_minutes/2010_annl_mtg_min.pdf":"2010 Annual meeting",
+      "mtg_minutes/2010_03_03_mtg.pdf":"2010 March 03 Board of Commissioners meeting",
+      "mtg_minutes/2010_07_14_mtg.pdf":"2010 July 14 Board of Commissioners meeting",
+      "mtg_minutes/2011_annl_mtg_min.pdf":"2011 Annual meeting",
+      "mtg_minutes/2011_02_23_mtg.pdf":"2011 February 23 Board of Commissioners meeting",
+      "mtg_minutes/2011_05_05_mtg.pdf":"2011 May 05 Board of Commissioners meeting",
+      "mtg_minutes/2011_08_08_mtg.pdf":"2011 August 08 Board of Commissioners meeting",
+      "mtg_minutes/2012_annl_mtg_min.pdf":"2012 Annual meeting",
+      "mtg_minutes/2012_02_15_mtg.pdf":"2012 February 15 Board of Commissioners meeting",
+      "mtg_minutes/2012_05_11_mtg.pdf":"2012 May 11 Board of Commissioners meeting",
+      "mtg_minutes/2012_08_06_mtg.pdf":"2012 August 6 Board of Commissioners meeting",
+      "mtg_minutes/2012_11_08_mtg.pdf":"2012 November 8 Board of Commissioners meeting",
+      "mtg_minutes/2013_annl_mtg_min.pdf":"2013 Annual meeting",
+      "mtg_minutes/2013_02_03_mtg.pdf":"2013 February 3 Board of Commissioners meeting",
+      "mtg_minutes/2013_08_06_mtg.pdf":"2013 August 6 Board of Commissioners meeting",
+      "mtg_minutes/2014_09_26_mtg.pdf":"2014 September 26 Board of Commissioners meeting",
+      "mtg_minutes/2016_01_07_mtg.pdf":"2016 Annual meeting agenda,
+      "mtg_minutes/2016_01_07_mtg.pdf":"2016 January 7 Board of Commissioners meeting",
+      "mtg_minutes/2016_10_24_agenda.pdf":"2016 October 24 Board of Commissioners Agenda",
+      "mtg_minutes/2017_09_03_annl_mtg_summary.pdf":"2017 Annual meeting unofficial summary",
+      "mtg_minutes/2019_annl_mtg_min.pdf":"2019 Annual meeting",
+      "mtg_minutes/2019_01_10_mtg.pdf":"2019 January 10 Board of Commissioners meeting",
+      "mtg_minutes/2019_03_25_mtg.pdf":"2019 March 25 Board of Commissioners meeting",
+      "mtg_minutes/2019_05_23_mtg.pdf":"2019 May 23 Board of Commissioners meeting",
+      "mtg_minutes/2019_06_14_mtg.pdf":"2019 June 14 Board of Commissioners meeting",
+      "mtg_minutes/2019_07_16_mtg.pdf":"2019 July 16 Board of Commissioners meeting"
+      "mtg_minutes/2006_annl_mtg_min.pdf":"2006 Annual meeting",
+    },
+    finamcial_reports:{
+      "financial_reports/1998_financial_report.pdf":"1998 Financial report",
+      "financial_reports/1999_financial_report.pdf":"1999 Financial report",
+      "financial_reports/2000_financial_report.pdf":"2000 Financial report",
+      "financial_reports/2001_financial_report.pdf":"2001 Financial report",
+      "financial_reports/2002_financial_report.pdf":"2002 Financial report",
+      "financial_reports/2003_financial_report.pdf":"2003 Financial report",
+      "financial_reports/2004_financial_report.pdf":"2004 Financial report",
+      "financial_reports/2005_financial_report.pdf":"2005 Financial report",
+      "financial_reports/2006_financial_report.pdf":"2006 Financial report",
+      "financial_reports/2007_financial_report.pdf":"2007 Financial report",
+      "financial_reports/2008_financial_report.pdf":"2008 Financial report",
+      "financial_reports/2009_financial_report.pdf":"2009 Financial report",
+      "financial_reports/2010_financial_report.pdf":"2010 Financial report",
+      "financial_reports/2011_financial_report.pdf":"2011 Financial report",
+      "financial_reports/2011_exp_2011_levy_2012_budget.pdf":"2011 expenses, 2011 levy, 2012 budget",
+      "financial_reports/2012_10_ year_expenses_chart.pdf":"Expenses chart",
+      "financial_reports/2012_10_ year_income_chart.pdf":"Income chart",
+      "financial_reports/2012_10_ year_income_sources_chart.pdf":"Income sources chart",
+      "financial_reports/2012_financial_report.pdf":"2012 Financial report",
+      "financial_reports/2013_financial_report.pdf":"2013 Financial report",
+      "financial_reports/2014_budget.pdf":"2014 budget and levy",
+      "financial_reports/2014_financial_report.pdf":"2014 Financial report",
+      "financial_reports/2015_financial_report.pdf":"2015 Financial report",
+      "financial_reports/2016_financial_report.pdf":"2016 Financial report",
+      "financial_reports/2017_financial_report.pdf":"2017 Financial report",
+      "financial_reports/2018_financial_report.pdf":"2018 Financial report",
+      "financial_reports/2019_financial_report.pdf":"2019 Financial report",
+    },
+    news_letters: {
+      "newsletters/winter_2007-08.pdf","Winter 2007-08",
+      "newsletters/summer_2008.pdf","Summer 2008",
+      "newsletters/winter_2008-09.pdf","Winter 2008-09",
+      "newsletters/summer_2009.pdf","Summer 2009",
+      "newsletters/summer_2010.pdf","Summer 2010",
+      "newsletters/August_2011.pdf","August 2011",
+      "newsletters/August_2012.pdf","August 2012",
+      "newsletters/August_2013.pdf","August 2013",
+      "newsletters/August_2014.pdf","August 2014",
+      "newsletters/summer_2015.pdf","Summer 2015",
+      "newsletters/spring_2016.pdf","Spring 2016",
+      "newsletters/fall_2016.pdf","Fall 2016",
+      "newsletters/spring_2017.pdf","Spring 2017",
+      "newsletters/fall_2018.pdf","Fall 2018",
+      "newsletters/spring_2019.pdf","Spring 2019",
+      "newsletters/fall_2019.pdf","Fall 2019",
+      "newsletters/winter_2020.pdf","Winter 2020",
+    },
+    misc_documents : { 
+      "misc_documents/2004_panfish_survey_results.pdf":"2004 Panfish survey results"
+      "misc_documents/08-11-06_usda_phone_conversation_report.pdf":"Beaver control on Muskellunge Creek
+      "misc_documents/beaver_control_2006-2013.pdf":"Beaver control 2006 - 2013 data
+      "http://www.legis.state.wi.us/statutes/Stat0033.pdf":Chapter 33, WI Statutes
+      "misc_documents/district_boundary_maps_w_fonts.pdf":"Map - District boundaries
+      "misc_documents/wvic_ferc_license_2113.pdf":"WVIC FERC Dam operating license
+      "misc_documents/2008_stakeholdersurvey_results_draft1.pdf":"2008 Stakeholder survey results - DRAFT
+      "misc_documents/alum_nalms_position_statement.pdf":"North American Lakes Management Society",
+      "misc_documents/alum_nalms_position_statement.pdf":,"commentary on Alum treatments for phosphorous control",
+      "misc_documents/water_clarity-alum_treatment_update_january_09.pdf":"Water clarity / alum treatment update - January, 2009
+      "misc_documents/increasing_fish_in_lakes.pdf":"Increasing  the Amount of Fish in Lakes (the importance of the first 30 feet of lake bottom from shore)",
+      "misc_documents/shoreline_restoration_2009_grant_app.pdf":"Shoreline restoration-habitat recovery project 2009 Lake Protection Grant application",
+      "misc_documents/shoreline_restoration_article.pdf":"Shoreline restoration article",
+      "misc_documents/harmful _algal_blooms.pdf":"Harmful algal blooms alert (blue-green algae)",
+      "misc_documents/usda_beaver_control_report-2009.pdf":"USDA Muskellunge Creek beaver control report - 2009",
+      "misc_documents/2010-2012_ais_grant_application.pdf":"2010-2012 AIS grant application",
+      "misc_documents/permanent_musky_size_limit_proposed_rule-2009.pdf":"Proposed  permanent musky size lime rule - 2009",
+      "misc_documents/2015_cbcw_contract.pdf":"2015 Clean Boats Clean Waters - UW Oshkosh contract",
+      "misc_documents/2015_pesticide_permit_application.pdf":"2015 pesticide permit application",
+      "misc_documents/2015-2016_creel_comparel.pdf":"2015-2016 DNR Creel survey comparrisons",
+      "misc_documents/2015_fisheries_info.pdf":"2015 DNR Fisheries information ",
+    },
+    misc_websites : { 
+      "http:"//www.kenjacksonguide.com/":"Ken Jackson Outdoors - Professional fisherman and author",
+      "http:"//www.uwsp.edu/cnr/uwexlakes/":"UWEX Lakes Program",
+      "http:"//www.vilaslandandwater.org/":"Vilas County Land &amp; Water Conservation",
+      "http:"//www.vcla.us/":"Vilas County Lakes Association",
+      "http:"//www.dnr.state.wi.us/":"WI Dept.of Natural Resources",
+      "http:"//www.dhs.wisconsin.gov/eh/bluegreenalgae/":"WI Dept. of Health - blue/green algae concerns",
+    }
+
+
+}
